@@ -1,0 +1,50 @@
+Enter the Number of Dishes Are Available in Your Hotel
+5
+Enter the Name of Dish Number 100
+Sandwich
+Enter the Price of Dish 
+180
+Enter the Name of Dish Number 200
+Upama
+Enter the Price of Dish 
+200
+Enter the Name of Dish Number 300
+SHimla
+Enter the Price of Dish 
+100
+Enter the Name of Dish Number 400
+Banan-Pudding
+Enter the Price of Dish 
+900
+Enter the Name of Dish Number 500
+HUrda
+Enter the Price of Dish 
+50
+---------------------------------------------
+----------------Displaying Menu--------------
+---------------------------------------------
+Code 		Dish Name		Value
+100		Sandwich		180
+200		Upama		200
+300		SHimla		100
+400		Banan-Pudding		900
+500		HUrda		50
+----------------------------------------------------------
+Enter code of dish which you want to order
+100
+Enter the quantity
+4
+Do you Want to Continue press 1
+1
+Enter code of dish which you want to order
+200
+Enter the quantity
+3
+Do you Want to Continue press 1
+0
+Code Number		Dish Name		Dish Price
+100		Sandwich		180
+200		Upama		200
+Total GST :142.2
+Total HST :118.5
+Total Bill:2370.0
